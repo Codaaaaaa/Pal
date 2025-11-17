@@ -1,7 +1,7 @@
 {
   "Author": "Codaaaaaa",
-  "Name": "AutoPalExplorer",
-  "InternalName": "AutoPalExplorer",
+  "Name": "dadongbei",
+  "InternalName": "dadongbei",
   "AssemblyVersion": "1.0.0.0",
   "Description": "人人有挂开",
   "ApplicableVersion": "any",
@@ -15,9 +15,9 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "logo.png",
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/logo.png",
   "Punchline": "人人没挂开",
   "AcceptsFeedback": true,
-"DownloadLinkInstall": "https://raw.githubusercontent.com/yourname/MyDalamudPlugins/main/AutoPalExplorer/AutoPalExplorer.zip",
-    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/yourname/MyDalamudPlugins/main/AutoPalExplorer/AutoPalExplorer.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/latest.zip",
 }
