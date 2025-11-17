@@ -1,0 +1,23 @@
+{
+  "Author": "Codaaaaaa",
+  "Name": "AutoPalExplorer",
+  "InternalName": "AutoPalExplorer",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "人人有挂开",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "utility",
+    "deepdungeon",
+    "navigation"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "logo.png",
+  "Punchline": "人人没挂开",
+  "AcceptsFeedback": true,
+"DownloadLinkInstall": "https://raw.githubusercontent.com/yourname/MyDalamudPlugins/main/AutoPalExplorer/AutoPalExplorer.zip",
+    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/yourname/MyDalamudPlugins/main/AutoPalExplorer/AutoPalExplorer.zip",
+}
