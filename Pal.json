@@ -15,9 +15,9 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/logo.png",
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/logo.png",
   "Punchline": "人人没挂开",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/latest.zip",
-  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/latest.zip"
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/latest.zip"
 }]
