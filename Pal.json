@@ -20,4 +20,22 @@
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/latest.zip",
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/latest.zip"
+},
+{
+  "Author": "The Combat Reborn Team / Codaaaaaa",
+  "Name": "Bossmod Reborn",
+  "InternalName": "BossModReborn",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "A bunch of utilities to simplify bosses.妖宫高层怪适配",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/bmr_logo.png",
+  "Punchline": "Don't fail at raid mechanics anymore",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip"
 }]
