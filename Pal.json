@@ -26,7 +26,7 @@
   "Name": "Bossmod Reborn",
   "InternalName": "BossModReborn",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "A bunch of utilities to simplify bosses.妖宫高层怪适配",
+  "Description": "妖宫高层怪适配",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
@@ -34,7 +34,7 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/bmr_logo.png",
-  "Punchline": "Don't fail at raid mechanics anymore",
+  "Punchline": "测试分支，别下载",
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip",
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip"
