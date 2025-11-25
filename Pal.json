@@ -2,7 +2,7 @@
   "Author": "Codaaaaaa",
   "Name": "AutoPalExplorer",
   "InternalName": "AutoPalExplorer",
-  "AssemblyVersion": "1.0.0.12",
+  "AssemblyVersion": "1.0.0.13",
   "Description": "测试用",
   "ApplicableVersion": "any",
   "Tags": [
@@ -25,7 +25,7 @@
   "Author": "The Combat Reborn Team / Codaaaaaa",
   "Name": "Bossmod Reborn",
   "InternalName": "BossModReborn",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "妖宫高层怪适配",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 13,
