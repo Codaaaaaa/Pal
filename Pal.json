@@ -57,4 +57,22 @@
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/samurai/latest.zip",
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/samurai/latest.zip"
+},
+{
+  "Author": "Codaaaaaa",
+  "Name": "ChaGeYuXian",
+  "InternalName": "ChaGeYuXian",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "插个鱼先",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/logo.png",
+  "Punchline": "插个鱼先",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/latest.zip"
 }]
