@@ -38,4 +38,23 @@
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip",
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip"
+},
+{
+  "Author": "Codaaaaaa",
+  "Name": "samurai",
+  "InternalName": "samurai",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "samurai.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
+  "AcceptsFeedback": true,
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/samurai/logo.png",
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/samurai/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/samurai/latest.zip"
 }]
