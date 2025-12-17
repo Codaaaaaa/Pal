@@ -75,4 +75,29 @@
   "AcceptsFeedback": true,
   "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/latest.zip",
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/latest.zip"
+},
+{
+  "Author": "The Combat Reborn Team / Codaaaaaa",
+  "Name": "GatherBuddy Reborn",
+  "InternalName": "GatherBuddyReborn",
+  "AssemblyVersion": "7.3.5.0",
+  "Description": "7.4先行版",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
+  "Tags": [
+    "Gathering",
+    "Fishing",
+    "Miner",
+    "Botanist",
+    "Weather",
+    "Alarms",
+    "Timer"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Simplify Gathering and Fishing.",
+  "AcceptsFeedback": true
 }]
