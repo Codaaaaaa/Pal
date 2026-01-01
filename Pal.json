@@ -22,24 +22,6 @@
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/AutoPalaceExplorer/latest.zip"
 },
 {
-  "Author": "The Combat Reborn Team / Codaaaaaa",
-  "Name": "Bossmod Reborn",
-  "InternalName": "BossModReborn",
-  "AssemblyVersion": "0.0.0.6",
-  "Description": "妖宫高层怪适配",
-  "ApplicableVersion": "any",
-  "DalamudApiLevel": 13,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/bmr_logo.png",
-  "Punchline": "测试分支，别下载",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip",
-  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/BossModRebornYG/latest.zip"
-},
-{
   "Author": "Codaaaaaa",
   "Name": "samurai",
   "InternalName": "samurai",
@@ -77,56 +59,21 @@
   "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/ChaGeYuXian/latest.zip"
 },
 {
-  "Author": "The Combat Reborn Team / Codaaaaaa",
-  "Name": "GatherBuddy Reborn",
-  "InternalName": "GatherBuddyReborn",
-  "AssemblyVersion": "7.3.5.0",
-  "Description": "7.4先行版",
+  "Author": "Codaaaaaa",
+  "Name": "Occult Sight",
+  "InternalName": "OccultSight",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "兔子自用",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-  "Tags": [
-    "Gathering",
-    "Fishing",
-    "Miner",
-    "Botanist",
-    "Weather",
-    "Alarms",
-    "Timer"
-  ],
   "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "Simplify Gathering and Fishing.",
+  "IconUrl": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/OccultSight/logo.png",
+  "Punchline": "插个鱼先",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/GatherbuddyReborn/latest.zip",
-  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/GatherbuddyReborn/latest.zip"
-},
-{
-  "Author": "UnknownX",
-  "Name": "NoClippy",
-  "InternalName": "NoClippy",
-  "AssemblyVersion": "0.5.0.19",
-  "Description": "Reduces the effects of lag on certain aspects of the game, such as weaving and statuses. Usable as an alternative, or in addition, to XivAlexander. 7.4先行版",
-  "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-  "CategoryTags": [
-    "jobs",
-    "utility"
-  ],
-  "DalamudApiLevel": 14,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "ImageUrls": [
-    ""
-  ],
-  "IconUrl": "",
-  "Punchline": "Reduces the effects of lag on certain aspects of the game, and can show GCD clips",
-  "Changelog": "Fixed for 7.3 (Thanks to Zeffuro)",
-  "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/NoClippy/latest.zip",
-  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/NoClippy/latest.zip"
-}]
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/OccultSight/latest.zip",
+  "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Codaaaaaa/Pal/main/OccultSight/latest.zip"
+}
+]
